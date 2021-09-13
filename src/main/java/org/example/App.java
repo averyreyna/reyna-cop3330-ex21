@@ -59,6 +59,5 @@ public class App
         }
 
     System.out.println("The name of your month is " + month + ".");
-
     }
 }
